@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bazaar.Model", "Bazaar.Model\Bazaar.Model.csproj", "{22EBCFC4-06CA-4D65-94B5-3543C5BB188B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bazaar.Api", "Bazaar.Api\Bazaar.Api.csproj", "{1018EA5D-3184-4DE0-84C4-7B79EDD92E2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bazaar.Core", "Bazaar.Core\Bazaar.Core.csproj", "{688E5030-892B-4D44-BBE5-FF6DF8FA44E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22EBCFC4-06CA-4D65-94B5-3543C5BB188B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22EBCFC4-06CA-4D65-94B5-3543C5BB188B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22EBCFC4-06CA-4D65-94B5-3543C5BB188B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22EBCFC4-06CA-4D65-94B5-3543C5BB188B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1018EA5D-3184-4DE0-84C4-7B79EDD92E2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1018EA5D-3184-4DE0-84C4-7B79EDD92E2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1018EA5D-3184-4DE0-84C4-7B79EDD92E2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1018EA5D-3184-4DE0-84C4-7B79EDD92E2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{688E5030-892B-4D44-BBE5-FF6DF8FA44E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{688E5030-892B-4D44-BBE5-FF6DF8FA44E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{688E5030-892B-4D44-BBE5-FF6DF8FA44E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{688E5030-892B-4D44-BBE5-FF6DF8FA44E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
